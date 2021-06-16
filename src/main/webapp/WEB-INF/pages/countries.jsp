@@ -6,3 +6,5 @@
   To change this template use File | Settings | File Templates.
 --%>
 <p> This is the Countries list. </p>
+
+<p> This needs some jsp code.</p>
